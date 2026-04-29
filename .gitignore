@@ -1,0 +1,106 @@
+# ------------------------------
+# Python
+# ------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ------------------------------
+# Virtual Environment
+# ------------------------------
+myenv/
+venv/
+env/
+ENV/
+
+# ------------------------------
+# Environment Variables (IMPORTANT)
+# ------------------------------
+.env
+.env.*
+
+# ------------------------------
+# Streamlit
+# ------------------------------
+.streamlit/secrets.toml
+
+# ------------------------------
+# AWS / Credentials
+# ------------------------------
+.aws/
+*.pem
+
+# ------------------------------
+# Logs & Runtime Files
+# ------------------------------
+*.log
+*.out
+*.err
+nohup.out
+
+# ------------------------------
+# IDE / Editor
+# ------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ------------------------------
+# OS Files
+# ------------------------------
+.DS_Store
+Thumbs.db
+
+# ------------------------------
+# Jupyter Notebook
+# ------------------------------
+.ipynb_checkpoints/
+
+# ------------------------------
+# Testing / Coverage
+# ------------------------------
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+
+# ------------------------------
+# Build / Cache
+# ------------------------------
+.cache/
+*.sqlite3
+
+# ------------------------------
+# Node (if used)
+# ------------------------------
+node_modules/
+
+# ------------------------------
+# Images (Optional)
+# ------------------------------
+# Uncomment if you DON'T want images in repo
+# images/
+
+# ------------------------------
+# Misc
+# ------------------------------
+*.bak
+*.tmp
