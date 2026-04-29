@@ -222,7 +222,7 @@ User → Streamlit UI → Bedrock → OpenSearch → LLM → Answer
 
 ## 👨‍💻 Author
 
-**Nikhil Borade**
+**Pruthviraj Patil **
 AI/ML Developer | Data Science Enthusiast
 
 ---
